@@ -48,7 +48,7 @@ else if (profile == "english") {
   //why
   var konkani = "a.b.c.d.e.f.g.h.i.j.k.l.m.n.o.p.q.r.s.t.u.v.w.x.y.z"
 }
-else if (profile == "hagan") {
+else if (profile == "1") {
   root = {
     wavecolor: {
       r: 0, //()255.  255, 165,10
@@ -68,7 +68,7 @@ else if (profile == "hagan") {
   var konkani = "1.0"
 
 }
-else if (profile == "calvin") {
+else if (profile == "2") {
   root = {
     wavecolor: {
       r: 255,
@@ -87,7 +87,7 @@ else if (profile == "calvin") {
 
   var konkani = "ㄱ.ㄲ.ㄴ.ㄷ.ㄸ.ㄹ.ㅁ.ㅂ.ㅃ.ㅅ.ㅆ.ㅇ.ㅈ.ㅉ.ㅊ.ㅋ.ㅌ.ㅍ.ㅎ"
 }
-else if (profile == "arlo") {
+else if (profile == "3") {
   root = {
     wavecolor: {
       r: 32,
