@@ -198,6 +198,9 @@ function livelyPropertyListener(name, val) {
     case "rainBow":
       root.rainbow = val;
       break;
+    case "enableGlitches":
+      root.enableGlitches = val;
+      break;
     case "rainbowSpeed":
       root.rainbowSpeed = val / 100;
       break;
