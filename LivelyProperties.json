@@ -17,14 +17,19 @@
     "value": false,
     "text": "Rainbow"
   },
-  "Glitches": {
+  "enableGlitches": {
     "type": "checkbox",
     "value": false,
     "text": "Glitches"
   },
-  "Profile": {
-    "type": "text",
-    "value": "",
-    "text": "Profile"
+  "glitchcolor": {
+    "text": "Glitch Color",
+    "type": "color",
+    "value": "#00FF46"
+  },
+  "profile": {
+   "text" : "Enter Profile",
+   "type" : "textbox",
+   "value" : ""
   }
 }
