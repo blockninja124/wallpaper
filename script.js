@@ -204,6 +204,12 @@ function livelyPropertyListener(name, val) {
     case "rainbowSpeed":
       root.rainbowSpeed = val / 100;
       break;
+    case "profile":
+      root.profile = val;
+      break;
+    case "glitchColor":
+      root.glitchcolor = hexToRgb(val);
+      break;
   }
 }
 
